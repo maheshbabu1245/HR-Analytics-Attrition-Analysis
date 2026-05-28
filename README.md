@@ -58,4 +58,4 @@ improve workforce planning, and make better strategic decisions using data insig
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](hr_dashboard.png)
